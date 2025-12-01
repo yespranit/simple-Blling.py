@@ -2,15 +2,17 @@
 this python script continuously accept numerical input (prices) from the user and keeps adding them.
 The addition stops as the user press x, after which the final bill total is displayed.
 
-# Repeatedly asks the user to enter numbers
 
-1.Automatically adds each number to the total
+# feature
+1.Repeatedly asks the user to enter numbers
 
-2.Stops when user enters x
+2.Automatically adds each number to the total
 
-3.hows running total after each entry
+3.Stops when user enters x
 
-4.Handles invalid (non-numeric) input
+4.hows running total after each entry
+
+5.Handles invalid (non-numeric) input
 
 
 # How to Run
